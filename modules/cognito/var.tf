@@ -1,0 +1,2 @@
+variable "userPoolId" {}
+variable "clientId" {}
